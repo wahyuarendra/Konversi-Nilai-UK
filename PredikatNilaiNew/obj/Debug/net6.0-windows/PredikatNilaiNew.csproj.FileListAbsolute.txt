@@ -1,0 +1,68 @@
+C:\Users\HP-14\source\repos\PredikatNilaiNew\PredikatNilaiNew\bin\Debug\net6.0-windows\PredikatNilaiNew.exe
+C:\Users\HP-14\source\repos\PredikatNilaiNew\PredikatNilaiNew\bin\Debug\net6.0-windows\PredikatNilaiNew.deps.json
+C:\Users\HP-14\source\repos\PredikatNilaiNew\PredikatNilaiNew\bin\Debug\net6.0-windows\PredikatNilaiNew.runtimeconfig.json
+C:\Users\HP-14\source\repos\PredikatNilaiNew\PredikatNilaiNew\bin\Debug\net6.0-windows\PredikatNilaiNew.dll
+C:\Users\HP-14\source\repos\PredikatNilaiNew\PredikatNilaiNew\bin\Debug\net6.0-windows\PredikatNilaiNew.pdb
+C:\Users\HP-14\source\repos\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.csproj.AssemblyReference.cache
+C:\Users\HP-14\source\repos\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.Form1.resources
+C:\Users\HP-14\source\repos\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.csproj.GenerateResource.cache
+C:\Users\HP-14\source\repos\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-14\source\repos\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.AssemblyInfoInputs.cache
+C:\Users\HP-14\source\repos\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.AssemblyInfo.cs
+C:\Users\HP-14\source\repos\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.csproj.CoreCompileInputs.cache
+C:\Users\HP-14\source\repos\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.dll
+C:\Users\HP-14\source\repos\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\refint\PredikatNilaiNew.dll
+C:\Users\HP-14\source\repos\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.pdb
+C:\Users\HP-14\source\repos\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.genruntimeconfig.cache
+C:\Users\HP-14\source\repos\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\ref\PredikatNilaiNew.dll
+E:\UKK NADYA\PredikatNilaiNew\PredikatNilaiNew\bin\Debug\net6.0-windows\PredikatNilaiNew.exe
+E:\UKK NADYA\PredikatNilaiNew\PredikatNilaiNew\bin\Debug\net6.0-windows\PredikatNilaiNew.deps.json
+E:\UKK NADYA\PredikatNilaiNew\PredikatNilaiNew\bin\Debug\net6.0-windows\PredikatNilaiNew.runtimeconfig.json
+E:\UKK NADYA\PredikatNilaiNew\PredikatNilaiNew\bin\Debug\net6.0-windows\PredikatNilaiNew.dll
+E:\UKK NADYA\PredikatNilaiNew\PredikatNilaiNew\bin\Debug\net6.0-windows\PredikatNilaiNew.pdb
+E:\UKK NADYA\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.csproj.AssemblyReference.cache
+E:\UKK NADYA\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.Form1.resources
+E:\UKK NADYA\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.csproj.GenerateResource.cache
+E:\UKK NADYA\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.GeneratedMSBuildEditorConfig.editorconfig
+E:\UKK NADYA\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.AssemblyInfoInputs.cache
+E:\UKK NADYA\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.AssemblyInfo.cs
+E:\UKK NADYA\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.csproj.CoreCompileInputs.cache
+E:\UKK NADYA\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.dll
+E:\UKK NADYA\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\refint\PredikatNilaiNew.dll
+E:\UKK NADYA\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.pdb
+E:\UKK NADYA\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.genruntimeconfig.cache
+E:\UKK NADYA\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\ref\PredikatNilaiNew.dll
+C:\Users\lab rpl 1\source\repos\PredikatNilaiNew\PredikatNilaiNew\bin\Debug\net6.0-windows\PredikatNilaiNew.exe
+C:\Users\lab rpl 1\source\repos\PredikatNilaiNew\PredikatNilaiNew\bin\Debug\net6.0-windows\PredikatNilaiNew.deps.json
+C:\Users\lab rpl 1\source\repos\PredikatNilaiNew\PredikatNilaiNew\bin\Debug\net6.0-windows\PredikatNilaiNew.runtimeconfig.json
+C:\Users\lab rpl 1\source\repos\PredikatNilaiNew\PredikatNilaiNew\bin\Debug\net6.0-windows\PredikatNilaiNew.dll
+C:\Users\lab rpl 1\source\repos\PredikatNilaiNew\PredikatNilaiNew\bin\Debug\net6.0-windows\PredikatNilaiNew.pdb
+C:\Users\lab rpl 1\source\repos\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.csproj.AssemblyReference.cache
+C:\Users\lab rpl 1\source\repos\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.Form1.resources
+C:\Users\lab rpl 1\source\repos\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.csproj.GenerateResource.cache
+C:\Users\lab rpl 1\source\repos\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab rpl 1\source\repos\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.AssemblyInfoInputs.cache
+C:\Users\lab rpl 1\source\repos\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.AssemblyInfo.cs
+C:\Users\lab rpl 1\source\repos\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.csproj.CoreCompileInputs.cache
+C:\Users\lab rpl 1\source\repos\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.dll
+C:\Users\lab rpl 1\source\repos\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\refint\PredikatNilaiNew.dll
+C:\Users\lab rpl 1\source\repos\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.pdb
+C:\Users\lab rpl 1\source\repos\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.genruntimeconfig.cache
+C:\Users\lab rpl 1\source\repos\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\ref\PredikatNilaiNew.dll
+C:\Users\User\PredikatNilaiNew\PredikatNilaiNew\bin\Debug\net6.0-windows\PredikatNilaiNew.exe
+C:\Users\User\PredikatNilaiNew\PredikatNilaiNew\bin\Debug\net6.0-windows\PredikatNilaiNew.deps.json
+C:\Users\User\PredikatNilaiNew\PredikatNilaiNew\bin\Debug\net6.0-windows\PredikatNilaiNew.runtimeconfig.json
+C:\Users\User\PredikatNilaiNew\PredikatNilaiNew\bin\Debug\net6.0-windows\PredikatNilaiNew.dll
+C:\Users\User\PredikatNilaiNew\PredikatNilaiNew\bin\Debug\net6.0-windows\PredikatNilaiNew.pdb
+C:\Users\User\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.csproj.AssemblyReference.cache
+C:\Users\User\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.Form1.resources
+C:\Users\User\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.csproj.GenerateResource.cache
+C:\Users\User\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.AssemblyInfoInputs.cache
+C:\Users\User\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.AssemblyInfo.cs
+C:\Users\User\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.csproj.CoreCompileInputs.cache
+C:\Users\User\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.dll
+C:\Users\User\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\refint\PredikatNilaiNew.dll
+C:\Users\User\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.pdb
+C:\Users\User\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\PredikatNilaiNew.genruntimeconfig.cache
+C:\Users\User\PredikatNilaiNew\PredikatNilaiNew\obj\Debug\net6.0-windows\ref\PredikatNilaiNew.dll
